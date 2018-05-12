@@ -1,0 +1,39 @@
+_repo: Peggy-Raymond-s-WayOr-Blossom-Time-at-Friendly-Terrace_45908
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 45908-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Harriet L. (Harriet Lummis)
+    alias: Smith, Harriet Lummis
+    gutenberg_agent_id: '25717'
+    url: http://www.gutenberg.org/2009/agents/25717
+description: ''
+gutenberg_issued: '2014-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Students -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Weddings -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+title: Peggy Raymond's Way; Or, Blossom Time at Friendly Terrace
+url: http://www.gutenberg.org/ebooks/45908
