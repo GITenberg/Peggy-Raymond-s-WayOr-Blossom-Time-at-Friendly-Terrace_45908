@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '25717'
     url: http://www.gutenberg.org/2009/agents/25717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45908#Peggy-Raymond-s-WayOr-Blossom-Time-at-Friendly-Terrace
 gutenberg_issued: '2014-06-07'
 gutenberg_type: Text
 identifiers:
